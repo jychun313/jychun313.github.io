@@ -1,48 +1,29 @@
-<a href="https://themes.3rdwavemedia.com/bootstrap-templates/resume/shine-free-bootstrap-5-light-mode-resume-cv-template-for-developers/" target="_blank"><img src="https://themes.3rdwavemedia.com/wp-content/uploads/2023/06/free-bootstrap-resume-theme-shine-promo.jpg" alt="Shine - Bootstrap 5 Light Mode Resume/CV Template for Software Developers" /></a>
+# jychun313.github.io
 
-## Theme Details & Demo
+Personal homepage of **Jae Yoon Chun**.
 
-**Demo:** https://themes.3rdwavemedia.com/demo/bs5/shine/
+🔗 **Live:** https://jychun313.github.io
 
-Shine is a **free Bootstrap 5 resume/CV template** I made for software developers. Built on **Bootstrap 5 and SASS**, it's quick and easy to change the template styling. This modern template is designed to help you **build your personal brand and attract high-paying opportunities**!
+## About
 
-## Author & License
+A single-page, academic-style personal site built with plain **HTML & CSS** (no build step).
+Sections: Bio, Areas of Expertise, Selected Clients, Experience, Selected Projects,
+Publications, Skills, and Education.
 
-This Bootstrap template is made by UX/UI designer [Xiaoying Riley](https://twitter.com/3rdwave_themes) for developers and is 100% FREE as long as you **keep the footer attribution link**. You do not have the rights to resell, sublicense or redistribute (even for free) the template on its own or as a separate attachment from any of your work.
+## Develop
 
+No tooling required — open `index.html` in a browser:
 
-If you'd like to **use the template without the attribution link**, you can [buy the **commercial license** via the theme website](https://themes.3rdwavemedia.com/bootstrap-templates/resume/shine-free-bootstrap-5-light-mode-resume-cv-template-for-developers/)
+```bash
+open index.html
+```
 
-
-#### Follow Xiaoying
-
-[Twitter](https://twitter.com/3rdwave_themes)
-
-[Facebook](https://www.facebook.com/3rdwavethemes/)
-
-[Dribbble](https://dribbble.com/Xiaoying)
-
-[Medium](https://medium.com/@3rdwave_themes)
-
-[Linkedin](https://uk.linkedin.com/in/xiaoying)
-
-
-## Latest Version
-**v1.0** - 2023-06-29
-
-[Changelog](https://themes.3rdwavemedia.com/bootstrap-templates/resume/shine-free-bootstrap-5-light-mode-resume-cv-template-for-developers/?target=changelog)
-
-
-## Features
-
--  Fully Responsive
--  HTML5 + CSS3
--  Built on Bootstrap 5
--  **SCSS** source files included
--  FontAwesome icons
--  Bootstrap icons
--  Compatible with all modern browsers
+Edit content in `index.html` and styles in `assets/css/academic.css`.
+Push to `main` to deploy via GitHub Pages.
 
 ## Credits
-- [Bootstrap](http://getbootstrap.com/)
-- [FontAwesome](http://fortawesome.github.io/Font-Awesome/)
+
+Icons by [Font Awesome](https://fontawesome.com) and
+[Bootstrap Icons](https://icons.getbootstrap.com); typeface
+[Inter](https://fonts.google.com/specimen/Inter).
+Layout inspired by academic [al-folio](https://github.com/alshedivat/al-folio)-style homepages.
